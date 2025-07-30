@@ -1,5 +1,8 @@
 # RPad
 
+A 9-key macropad with macros for quickly typing email, etc.; media controls; window controls. Also has a very important alt+f4 key. It has 2 rotary encoders that are supposed to set volume and brightness and a OLED that should display that info and the time.
+
+### BOM
 - 9x MX Switches
 - 9x Blank DSA keycaps
 - 1x 0.91" OLED
