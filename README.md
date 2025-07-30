@@ -9,3 +9,7 @@
 - 2x resistors 4.7kOhm
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
+
+<img width="300" alt="Schematic" src="https://github.com/user-attachments/assets/72951f1b-e0b4-471d-998c-769b9ce6ae54" />
+<img width="300"  alt="PCB" src="https://github.com/user-attachments/assets/e99a1b50-5553-4310-a39f-991c2059bdea" />
+<img width="300" alt="CAD" src="https://github.com/user-attachments/assets/9a1c72a4-e826-4844-aae5-0a8e51f9544e" />
